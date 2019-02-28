@@ -1,0 +1,11 @@
+C:\HashCodes\HashCode2019\HashCode2019\bin\Debug\netcoreapp2.1\HashCode2019.deps.json
+C:\HashCodes\HashCode2019\HashCode2019\bin\Debug\netcoreapp2.1\HashCode2019.runtimeconfig.json
+C:\HashCodes\HashCode2019\HashCode2019\bin\Debug\netcoreapp2.1\HashCode2019.runtimeconfig.dev.json
+C:\HashCodes\HashCode2019\HashCode2019\bin\Debug\netcoreapp2.1\HashCode2019.dll
+C:\HashCodes\HashCode2019\HashCode2019\bin\Debug\netcoreapp2.1\HashCode2019.pdb
+C:\HashCodes\HashCode2019\HashCode2019\obj\Debug\netcoreapp2.1\HashCode2019.csprojAssemblyReference.cache
+C:\HashCodes\HashCode2019\HashCode2019\obj\Debug\netcoreapp2.1\HashCode2019.csproj.CoreCompileInputs.cache
+C:\HashCodes\HashCode2019\HashCode2019\obj\Debug\netcoreapp2.1\HashCode2019.AssemblyInfoInputs.cache
+C:\HashCodes\HashCode2019\HashCode2019\obj\Debug\netcoreapp2.1\HashCode2019.AssemblyInfo.cs
+C:\HashCodes\HashCode2019\HashCode2019\obj\Debug\netcoreapp2.1\HashCode2019.dll
+C:\HashCodes\HashCode2019\HashCode2019\obj\Debug\netcoreapp2.1\HashCode2019.pdb
